@@ -1,9 +1,4 @@
-example
-=====
+How to run
+==========
 
-An OTP library
-
-Build
------
-
-    $ rebar3 compile
+    $ rebar3 autotest
